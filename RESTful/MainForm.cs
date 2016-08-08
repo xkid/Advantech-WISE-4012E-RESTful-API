@@ -235,5 +235,24 @@ namespace RESTful
 			Button2Click(sender,e);
 		}
 		
+		
+		void Button5Click(object sender, EventArgs e)
+		{
+			if (button5.Text == "Connect"){
+				timer1.Enabled = true;
+				button1.Enabled = true;
+				button2.Enabled = true;
+				button3.Enabled = true;
+				button4.Enabled = true;
+				button5.Text = "Disconnect";
+			}else{
+				timer1.Enabled = false;
+				button1.Enabled = false;
+				button2.Enabled = false;
+				button3.Enabled = false;
+				button4.Enabled = false;
+				button5.Text = "Connect";
+			}			
+		}
 	}
 }
