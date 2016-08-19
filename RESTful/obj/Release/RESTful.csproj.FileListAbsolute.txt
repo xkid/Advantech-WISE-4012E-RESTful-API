@@ -6,3 +6,11 @@ C:\Users\Owner\Documents\GitHub\Advantech-WISE-4012E-RESTful-API\RESTful\bin\Rel
 C:\Users\Owner\Documents\GitHub\Advantech-WISE-4012E-RESTful-API\RESTful\bin\Release\RestSharp.dll
 C:\Users\Owner\Documents\GitHub\Advantech-WISE-4012E-RESTful-API\RESTful\bin\Release\RestSharp.xml
 C:\Users\Owner\Documents\GitHub\Advantech-WISE-4012E-RESTful-API\RESTful\obj\Release\RESTful.exe
+C:\Users\win8\Documents\SharpDevelop Projects\RESTful\RESTful\bin\Release\RESTful.exe.config
+C:\Users\win8\Documents\SharpDevelop Projects\RESTful\RESTful\bin\Release\RESTful.exe
+C:\Users\win8\Documents\SharpDevelop Projects\RESTful\RESTful\bin\Release\RestSharp.dll
+C:\Users\win8\Documents\SharpDevelop Projects\RESTful\RESTful\bin\Release\RestSharp.xml
+C:\Users\win8\Documents\SharpDevelop Projects\RESTful\RESTful\obj\Release\RESTful.csprojResolveAssemblyReference.cache
+C:\Users\win8\Documents\SharpDevelop Projects\RESTful\RESTful\obj\Release\RESTful.MainForm.resources
+C:\Users\win8\Documents\SharpDevelop Projects\RESTful\RESTful\obj\Release\RESTful.csproj.GenerateResource.Cache
+C:\Users\win8\Documents\SharpDevelop Projects\RESTful\RESTful\obj\Release\RESTful.exe

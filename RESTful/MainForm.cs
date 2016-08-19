@@ -184,7 +184,7 @@ namespace RESTful
 			string[] s1c = html.Split(',');
 			foreach (string v1c in s1c){
 				string[] s2c = v1c.Split(':');
-				if(s2c[0] == "\"Val\"")
+				if(s2c[0] == "\"Stat\"")
 				{
 					if(s2c[1] == "1"){
 						label3.BackColor = Color.Green;
@@ -207,7 +207,7 @@ namespace RESTful
 			string[] s1d = html.Split(',');
 			foreach (string v1d in s1d){
 				string[] s2d = v1d.Split(':');
-				if(s2d[0] == "\"Val\"")
+				if(s2d[0] == "\"Stat\"")
 				{
 					if(s2d[1] == "1"){
 						label4.BackColor = Color.Green;
